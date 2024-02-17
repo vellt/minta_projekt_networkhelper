@@ -1,0 +1,5 @@
+ez a projekt dinamikusan építi ki a CRUD kapcsolatot az adatbázis tábláival backenden keresztül. Bármilyen adatbázisbéli táblát le tud kezelni plusz sor/metódus megírása nélkül. Minden típust lekezel a NetworkHelper.dll könyvtár, mely felhasználja a Newtonsoft.json.dll
+
+függőségei:
+- Newtonsoft.json.dll
+- NetworkHelper.dll
