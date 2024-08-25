@@ -1,0 +1,45 @@
+﻿<Window x:Class="TanulokWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TanulokWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- CRUD gombok -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,0,0,10">
+            <Button Content="Új Tanuló" Width="100" Margin="5" Click="CreateButton_Click"/>
+            <Button Content="Módosítás" Width="100" Margin="5" Click="UpdateButton_Click"/>
+            <Button Content="Törlés" Width="100" Margin="5" Click="Delete_Button_Click"/>
+            <Button Content="Frissítés" Width="100" Margin="5" Click="Refresh_Button_Click"/>
+        </StackPanel>
+
+        <!-- DataGrid a tanulók megjelenítéséhez -->
+        <DataGrid x:Name="TanulokDataGrid" Grid.Row="1" AutoGenerateColumns="False" CanUserAddRows="False" IsReadOnly="True" SelectionChanged="StudentsDataGrid_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding id}" Width="50"/>
+                <DataGridTextColumn Header="Név" Binding="{Binding nev}" Width="200"/>
+                <DataGridTextColumn Header="Osztály" Binding="{Binding osztaly}" Width="100"/>
+                <DataGridTextColumn Header="Születési Dátum" Binding="{Binding szuletesi_datum}" Width="150"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Tanuló adatainak mezők -->
+        <StackPanel Grid.Row="2" HorizontalAlignment="Center" Orientation="Horizontal" Margin="0,10,0,0">
+            <Label Content="Név:" VerticalAlignment="Center"/>
+            <TextBox x:Name="NevTextBox" Width="150" Margin="5"/>
+            <Label Content="Osztály:" VerticalAlignment="Center"/>
+            <TextBox x:Name="OsztalyTextBox" Width="100" Margin="5"/>
+            <Label Content="Születési Dátum:" VerticalAlignment="Center"/>
+            <TextBox x:Name="DatumTextBox" Width="150" Margin="5"/>
+            <Button Content="Adatok törlése" Width="100" Margin="5" Click="Clear_Button_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

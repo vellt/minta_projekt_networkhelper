@@ -1,6 +1,0 @@
-INSERT INTO user (firstname, lastname, birthday) VALUES
-('John', 'Smith', '1990-05-15'),
-('Alice', 'Johnson', '1988-09-28'),
-('Emma', 'Brown', '1995-02-10'),
-('Michael', 'Davis', '1985-11-03'),
-('Olivia', 'Wilson', '1998-07-20');

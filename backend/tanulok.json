@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "nev": "Kiss Péter",
+      "osztaly": "9.A",
+      "szuletesi_datum": "2007-05-12"
+    },
+    {
+      "id": 2,
+      "nev": "Nagy Anna",
+      "osztaly": "10.B",
+      "szuletesi_datum": "2006-08-23"
+    },
+    {
+      "id": 3,
+      "nev": "Szabó Márton",
+      "osztaly": "11.C",
+      "szuletesi_datum": "2005-01-15"
+    },
+    {
+      "id": 4,
+      "nev": "Tóth Emese",
+      "osztaly": "12.D",
+      "szuletesi_datum": "2004-11-30"
+    },
+    {
+      "id": 5,
+      "nev": "Horváth László",
+      "osztaly": "9.B",
+      "szuletesi_datum": "2007-03-08"
+    },
+    {
+      "id": 6,
+      "nev": "Varga Zsófia",
+      "osztaly": "10.A",
+      "szuletesi_datum": "2006-07-19"
+    },
+    {
+      "id": 7,
+      "nev": "Kovács Dávid",
+      "osztaly": "11.B",
+      "szuletesi_datum": "2005-02-25"
+    },
+    {
+      "id": 8,
+      "nev": "Molnár Dóra",
+      "osztaly": "12.C",
+      "szuletesi_datum": "2004-09-10"
+    },
+    {
+      "id": 9,
+      "nev": "Lukács Bence",
+      "osztaly": "9.C",
+      "szuletesi_datum": "2007-12-04"
+    },
+    {
+      "id": 10,
+      "nev": "Farkas Réka",
+      "osztaly": "10.D",
+      "szuletesi_datum": "2006-04-16"
+    },
+    {
+      "id": 11,
+      "nev": "Papp Gergely",
+      "osztaly": "11.A",
+      "szuletesi_datum": "2005-06-22"
+    },
+    {
+      "id": 12,
+      "nev": "Szalai Eszter",
+      "osztaly": "12.B",
+      "szuletesi_datum": "2004-02-28"
+    },
+    {
+      "id": 13,
+      "nev": "Németh Ádám",
+      "osztaly": "9.D",
+      "szuletesi_datum": "2007-09-15"
+    },
+    {
+      "id": 14,
+      "nev": "Balogh Lili",
+      "osztaly": "10.C",
+      "szuletesi_datum": "2006-01-05"
+    },
+    {
+      "id": 15,
+      "nev": "Simon Tamás",
+      "osztaly": "11.D",
+      "szuletesi_datum": "2005-10-11"
+    },
+    {
+      "id": 16,
+      "nev": "Takács Noémi",
+      "osztaly": "12.A",
+      "szuletesi_datum": "2004-05-27"
+    },
+    {
+      "id": 17,
+      "nev": "Juhász András",
+      "osztaly": "9.A",
+      "szuletesi_datum": "2007-08-09"
+    },
+    {
+      "id": 18,
+      "nev": "Oláh Viktória",
+      "osztaly": "10.B",
+      "szuletesi_datum": "2006-12-20"
+    },
+    {
+      "id": 19,
+      "nev": "Sipos Máté",
+      "osztaly": "11.C",
+      "szuletesi_datum": "2005-03-14"
+    },
+    {
+      "id": 20,
+      "nev": "Veres Kata",
+      "osztaly": "12.D",
+      "szuletesi_datum": "2004-07-07"
+    }
+  ]
+  
