@@ -45,7 +45,6 @@ namespace TanulokConsole
                 .ForEach(x => Console.WriteLine(x.nev));
 
             Console.ReadKey();
-
         }
     }
 }
