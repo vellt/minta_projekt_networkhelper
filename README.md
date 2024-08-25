@@ -28,7 +28,6 @@ namespace TanulokConsole
                 .First().nev;
             Console.WriteLine(nev);
 
-
             //Számold meg, hogy hány tanuló van osztályonként.
             tanulok.GroupBy(x => x.osztaly)
                 .Select(x => new { osztaly = x.Key, db = x.Count() })
