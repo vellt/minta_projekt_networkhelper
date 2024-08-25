@@ -1,3 +1,31 @@
+```json
+{
+    "message": "Sikeres lekérdezés",
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "nev": "Kiss Péter",
+            "osztaly": "9.A",
+            "szuletesi_datum": "2007-05-12"
+        },
+        {
+            "id": 2,
+            "nev": "Nagy Anna",
+            "osztaly": "10.B",
+            "szuletesi_datum": "2006-08-23"
+        },
+        {
+            "id": 3,
+            "nev": "Szabó Márton",
+            "osztaly": "11.C",
+            "szuletesi_datum": "2005-01-15"
+        }
+    ]
+}
+
+```
+
 ```C#
 using NetworkHelper;
 using System;
