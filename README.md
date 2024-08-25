@@ -54,12 +54,12 @@ namespace TanulokConsole
                 .ToList()
                 .ForEach(x => Console.WriteLine(x.nev));
 
-            //Keresd meg a legidősebb tanulót a listában.
+            // Keresd meg a legidősebb tanulót a listában.
             string nev = tanulok.OrderByDescending(x => DateTime.Parse(x.szuletesi_datum))
                 .First().nev;
             Console.WriteLine(nev);
 
-            //Számold meg, hogy hány tanuló van osztályonként.
+            // Számold meg, hogy hány tanuló van osztályonként.
             tanulok.GroupBy(x => x.osztaly)
                 .Select(x => new { osztaly = x.Key, db = x.Count() })
                 .ToList()
