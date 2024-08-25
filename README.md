@@ -1,3 +1,5 @@
+### Komplex response
+
 ```json
 {
     "message": "Sikeres lekérdezés",
@@ -26,6 +28,7 @@
 
 ```
 
+### komplex responseból részleges adatkinyerés a `ValueAt`-al
 ```C#
 using NetworkHelper;
 using System;
