@@ -7,3 +7,4 @@ C:\Users\szant\Downloads\minta_projekt_networkhelper\TanulokWPF_Console\TanulokC
 C:\Users\szant\Downloads\minta_projekt_networkhelper\TanulokWPF_Console\TanulokConsole\obj\Debug\TanulokConsole.csproj.CopyComplete
 C:\Users\szant\Downloads\minta_projekt_networkhelper\TanulokWPF_Console\TanulokConsole\obj\Debug\TanulokConsole.exe
 C:\Users\szant\Downloads\minta_projekt_networkhelper\TanulokWPF_Console\TanulokConsole\obj\Debug\TanulokConsole.pdb
+C:\Users\szant\Downloads\minta_projekt_networkhelper\TanulokWPF_Console\TanulokConsole\obj\Debug\TanulokConsole.csproj.AssemblyReference.cache
