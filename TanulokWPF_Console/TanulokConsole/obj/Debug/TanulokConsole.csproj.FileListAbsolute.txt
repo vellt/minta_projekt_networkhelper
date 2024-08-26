@@ -1,0 +1,9 @@
+C:\Users\szant\Downloads\minta_projekt_networkhelper\TanulokWPF_Console\TanulokConsole\bin\Debug\TanulokConsole.exe.config
+C:\Users\szant\Downloads\minta_projekt_networkhelper\TanulokWPF_Console\TanulokConsole\bin\Debug\TanulokConsole.exe
+C:\Users\szant\Downloads\minta_projekt_networkhelper\TanulokWPF_Console\TanulokConsole\bin\Debug\TanulokConsole.pdb
+C:\Users\szant\Downloads\minta_projekt_networkhelper\TanulokWPF_Console\TanulokConsole\bin\Debug\NetworkHelper.dll
+C:\Users\szant\Downloads\minta_projekt_networkhelper\TanulokWPF_Console\TanulokConsole\bin\Debug\NetworkHelper.pdb
+C:\Users\szant\Downloads\minta_projekt_networkhelper\TanulokWPF_Console\TanulokConsole\obj\Debug\TanulokConsole.csproj.CoreCompileInputs.cache
+C:\Users\szant\Downloads\minta_projekt_networkhelper\TanulokWPF_Console\TanulokConsole\obj\Debug\TanulokConsole.csproj.CopyComplete
+C:\Users\szant\Downloads\minta_projekt_networkhelper\TanulokWPF_Console\TanulokConsole\obj\Debug\TanulokConsole.exe
+C:\Users\szant\Downloads\minta_projekt_networkhelper\TanulokWPF_Console\TanulokConsole\obj\Debug\TanulokConsole.pdb

@@ -35,7 +35,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="NetworkHelper">
+    <Reference Include="NetworkHelper, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\Desktop\konyvtar\Network_Helper_Library\NetworkHelper\NetworkHelper.dll</HintPath>
     </Reference>
     <Reference Include="System" />
