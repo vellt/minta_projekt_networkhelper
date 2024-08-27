@@ -1,0 +1,10 @@
+C:\Users\szant\source\repos\TanulokWPF\TanulokConsole\bin\Debug\TanulokConsole.exe.config
+C:\Users\szant\source\repos\TanulokWPF\TanulokConsole\bin\Debug\TanulokConsole.exe
+C:\Users\szant\source\repos\TanulokWPF\TanulokConsole\bin\Debug\TanulokConsole.pdb
+C:\Users\szant\source\repos\TanulokWPF\TanulokConsole\bin\Debug\NetworkHelper.dll
+C:\Users\szant\source\repos\TanulokWPF\TanulokConsole\bin\Debug\NetworkHelper.pdb
+C:\Users\szant\source\repos\TanulokWPF\TanulokConsole\obj\Debug\TanulokConsole.csproj.CoreCompileInputs.cache
+C:\Users\szant\source\repos\TanulokWPF\TanulokConsole\obj\Debug\TanulokConsole.csproj.CopyComplete
+C:\Users\szant\source\repos\TanulokWPF\TanulokConsole\obj\Debug\TanulokConsole.exe
+C:\Users\szant\source\repos\TanulokWPF\TanulokConsole\obj\Debug\TanulokConsole.pdb
+C:\Users\szant\source\repos\TanulokWPF\TanulokConsole\obj\Debug\TanulokConsole.csproj.AssemblyReference.cache
